@@ -1,0 +1,365 @@
+world_trends : 
+[
+ {
+  "trends": [
+   {
+    "name": "#WayV_DEBUT",
+    "url": "http://twitter.com/search?q=%23WayV_DEBUT",
+    "promoted_content": null,
+    "query": "%23WayV_DEBUT",
+    "tweet_volume": 86091
+   },
+   {
+    "name": "#\u3050\u308b\u30ca\u30a4",
+    "url": "http://twitter.com/search?q=%23%E3%81%90%E3%82%8B%E3%83%8A%E3%82%A4",
+    "promoted_content": null,
+    "query": "%23%E3%81%90%E3%82%8B%E3%83%8A%E3%82%A4",
+    "tweet_volume": 13470
+   },
+   {
+    "name": "#FelizJueves",
+    "url": "http://twitter.com/search?q=%23FelizJueves",
+    "promoted_content": null,
+    "query": "%23FelizJueves",
+    "tweet_volume": 15456
+   },
+   {
+    "name": "#MSBYeniAskerlikS\u00f6z\u00fc",
+    "url": "http://twitter.com/search?q=%23MSBYeniAskerlikS%C3%B6z%C3%BC",
+    "promoted_content": null,
+    "query": "%23MSBYeniAskerlikS%C3%B6z%C3%BC",
+    "tweet_volume": null
+   },
+   {
+    "name": "#SAVE_ME",
+    "url": "http://twitter.com/search?q=%23SAVE_ME",
+    "promoted_content": null,
+    "query": "%23SAVE_ME",
+    "tweet_volume": 914104
+   },
+   {
+    "name": "\u6cbb\u7642\u6cd5",
+    "url": "http://twitter.com/search?q=%E6%B2%BB%E7%99%82%E6%B3%95",
+    "promoted_content": null,
+    "query": "%E6%B2%BB%E7%99%82%E6%B3%95",
+    "tweet_volume": 20741
+   },
+   {
+    "name": "\u611f\u67d3\u529b",
+    "url": "http://twitter.com/search?q=%E6%84%9F%E6%9F%93%E5%8A%9B",
+    "promoted_content": null,
+    "query": "%E6%84%9F%E6%9F%93%E5%8A%9B",
+    "tweet_volume": 18832
+   },
+   {
+    "name": "\u81f4\u6b7b\u7387",
+    "url": "http://twitter.com/search?q=%E8%87%B4%E6%AD%BB%E7%8E%87",
+    "promoted_content": null,
+    "query": "%E8%87%B4%E6%AD%BB%E7%8E%87",
+    "tweet_volume": null
+   },
+   {
+    "name": "\u65b0\u4e95\u3055\u3093",
+    "url": "http://twitter.com/search?q=%E6%96%B0%E4%BA%95%E3%81%95%E3%82%93",
+    "promoted_content": null,
+    "query": "%E6%96%B0%E4%BA%95%E3%81%95%E3%82%93",
+    "tweet_volume": null
+   },
+   {
+    "name": "\uc2e0\uba54\ub274",
+    "url": "http://twitter.com/search?q=%EC%8B%A0%EB%A9%94%EB%89%B4",
+    "promoted_content": null,
+    "query": "%EC%8B%A0%EB%A9%94%EB%89%B4",
+    "tweet_volume": null
+   },
+   {
+    "name": "\u30bf\u30fc\u30cb\u30e3",
+    "url": "http://twitter.com/search?q=%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%A3",
+    "promoted_content": null,
+    "query": "%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%A3",
+    "tweet_volume": 13105
+   },
+   {
+    "name": "\u5343\u9ce5\u306e\u30ce\u30d6",
+    "url": "http://twitter.com/search?q=%E5%8D%83%E9%B3%A5%E3%81%AE%E3%83%8E%E3%83%96",
+    "promoted_content": null,
+    "query": "%E5%8D%83%E9%B3%A5%E3%81%AE%E3%83%8E%E3%83%96",
+    "tweet_volume": null
+   },
+   {
+    "name": "alex bolt",
+    "url": "http://twitter.com/search?q=%22alex+bolt%22",
+    "promoted_content": null,
+    "query": "%22alex+bolt%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Carmen Maura",
+    "url": "http://twitter.com/search?q=%22Carmen+Maura%22",
+    "promoted_content": null,
+    "query": "%22Carmen+Maura%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "\u4e09\u6d66\u5927\u77e5",
+    "url": "http://twitter.com/search?q=%E4%B8%89%E6%B5%A6%E5%A4%A7%E7%9F%A5",
+    "promoted_content": null,
+    "query": "%E4%B8%89%E6%B5%A6%E5%A4%A7%E7%9F%A5",
+    "tweet_volume": 46687
+   },
+   {
+    "name": "\u5929\u7687\u965b\u4e0b",
+    "url": "http://twitter.com/search?q=%E5%A4%A9%E7%9A%87%E9%99%9B%E4%B8%8B",
+    "promoted_content": null,
+    "query": "%E5%A4%A9%E7%9A%87%E9%99%9B%E4%B8%8B",
+    "tweet_volume": 51423
+   },
+   {
+    "name": "Gabba",
+    "url": "http://twitter.com/search?q=Gabba",
+    "promoted_content": null,
+    "query": "Gabba",
+    "tweet_volume": null
+   },
+   {
+    "name": "\u30ce\u30d6\u3055\u3093",
+    "url": "http://twitter.com/search?q=%E3%83%8E%E3%83%96%E3%81%95%E3%82%93",
+    "promoted_content": null,
+    "query": "%E3%83%8E%E3%83%96%E3%81%95%E3%82%93",
+    "tweet_volume": null
+   },
+   {
+    "name": "\u30b4\u30c1\u306e\u65b0\u30e1\u30f3\u30d0\u30fc",
+    "url": "http://twitter.com/search?q=%E3%82%B4%E3%83%81%E3%81%AE%E6%96%B0%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC",
+    "promoted_content": null,
+    "query": "%E3%82%B4%E3%83%81%E3%81%AE%E6%96%B0%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC",
+    "tweet_volume": null
+   },
+   {
+    "name": "\u30d0\u30f3\u30af\u30b7\u30fc",
+    "url": "http://twitter.com/search?q=%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%BC",
+    "promoted_content": null,
+    "query": "%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%BC",
+    "tweet_volume": 12176
+   },
+   {
+    "name": "\u30b5\u30c6\u30a3\u30d5\u30a3\u30b1\u30a4\u30c8",
+    "url": "http://twitter.com/search?q=%E3%82%B5%E3%83%86%E3%82%A3%E3%83%95%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%88",
+    "promoted_content": null,
+    "query": "%E3%82%B5%E3%83%86%E3%82%A3%E3%83%95%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%88",
+    "tweet_volume": 10969
+   },
+   {
+    "name": "Dilan 1991",
+    "url": "http://twitter.com/search?q=%22Dilan+1991%22",
+    "promoted_content": null,
+    "query": "%22Dilan+1991%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Kiko Casilla",
+    "url": "http://twitter.com/search?q=%22Kiko+Casilla%22",
+    "promoted_content": null,
+    "query": "%22Kiko+Casilla%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "#\u0643\u064a\u0641_\u062a\u062c\u0639\u0644_\u0627\u0644\u0646\u0627\u0633_\u062a\u062d\u0628\u0643_\u0648\u062a\u062d\u062a\u0631\u0645\u0643",
+    "url": "http://twitter.com/search?q=%23%D9%83%D9%8A%D9%81_%D8%AA%D8%AC%D8%B9%D9%84_%D8%A7%D9%84%D9%86%D8%A7%D8%B3_%D8%AA%D8%AD%D8%A8%D9%83_%D9%88%D8%AA%D8%AD%D8%AA%D8%B1%D9%85%D9%83",
+    "promoted_content": null,
+    "query": "%23%D9%83%D9%8A%D9%81_%D8%AA%D8%AC%D8%B9%D9%84_%D8%A7%D9%84%D9%86%D8%A7%D8%B3_%D8%AA%D8%AD%D8%A8%D9%83_%D9%88%D8%AA%D8%AD%D8%AA%D8%B1%D9%85%D9%83",
+    "tweet_volume": 20647
+   },
+   {
+    "name": "#ThursdayThoughts",
+    "url": "http://twitter.com/search?q=%23ThursdayThoughts",
+    "promoted_content": null,
+    "query": "%23ThursdayThoughts",
+    "tweet_volume": 39718
+   },
+   {
+    "name": "#VS\u5d50",
+    "url": "http://twitter.com/search?q=%23VS%E5%B5%90",
+    "promoted_content": null,
+    "query": "%23VS%E5%B5%90",
+    "tweet_volume": null
+   },
+   {
+    "name": "#\u4f55\u30d5\u30eb\u30a8\u30f3\u30b6",
+    "url": "http://twitter.com/search?q=%23%E4%BD%95%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "promoted_content": null,
+    "query": "%23%E4%BD%95%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "tweet_volume": 18976
+   },
+   {
+    "name": "#\u30b4\u30c1\u65b0\u30e1\u30f3\u30d0\u30fc",
+    "url": "http://twitter.com/search?q=%23%E3%82%B4%E3%83%81%E6%96%B0%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC",
+    "promoted_content": null,
+    "query": "%23%E3%82%B4%E3%83%81%E6%96%B0%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC",
+    "tweet_volume": null
+   },
+   {
+    "name": "#\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0647_\u0642\u0637\u0631",
+    "url": "http://twitter.com/search?q=%23%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%87_%D9%82%D8%B7%D8%B1",
+    "promoted_content": null,
+    "query": "%23%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%87_%D9%82%D8%B7%D8%B1",
+    "tweet_volume": 26861
+   },
+   {
+    "name": "#EungEung2ndWin",
+    "url": "http://twitter.com/search?q=%23EungEung2ndWin",
+    "promoted_content": null,
+    "query": "%23EungEung2ndWin",
+    "tweet_volume": 13656
+   },
+   {
+    "name": "#\ud504\ub77c\ud478\uce58\ub178\uac00_\ub41c_\ub2f9\uc2e0",
+    "url": "http://twitter.com/search?q=%23%ED%94%84%EB%9D%BC%ED%91%B8%EC%B9%98%EB%85%B8%EA%B0%80_%EB%90%9C_%EB%8B%B9%EC%8B%A0",
+    "promoted_content": null,
+    "query": "%23%ED%94%84%EB%9D%BC%ED%91%B8%EC%B9%98%EB%85%B8%EA%B0%80_%EB%90%9C_%EB%8B%B9%EC%8B%A0",
+    "tweet_volume": null
+   },
+   {
+    "name": "#TankPaletMillidir",
+    "url": "http://twitter.com/search?q=%23TankPaletMillidir",
+    "promoted_content": null,
+    "query": "%23TankPaletMillidir",
+    "tweet_volume": null
+   },
+   {
+    "name": "#ThursdayMotivation",
+    "url": "http://twitter.com/search?q=%23ThursdayMotivation",
+    "promoted_content": null,
+    "query": "%23ThursdayMotivation",
+    "tweet_volume": 13306
+   },
+   {
+    "name": "#BuenJueves",
+    "url": "http://twitter.com/search?q=%23BuenJueves",
+    "promoted_content": null,
+    "query": "%23BuenJueves",
+    "tweet_volume": null
+   },
+   {
+    "name": "#17OcakD\u00fcnyaZenginlerG\u00fcn\u00fc",
+    "url": "http://twitter.com/search?q=%2317OcakD%C3%BCnyaZenginlerG%C3%BCn%C3%BC",
+    "promoted_content": null,
+    "query": "%2317OcakD%C3%BCnyaZenginlerG%C3%BCn%C3%BC",
+    "tweet_volume": null
+   },
+   {
+    "name": "#uksnow",
+    "url": "http://twitter.com/search?q=%23uksnow",
+    "promoted_content": null,
+    "query": "%23uksnow",
+    "tweet_volume": null
+   },
+   {
+    "name": "#per\u015fembe",
+    "url": "http://twitter.com/search?q=%23per%C5%9Fembe",
+    "promoted_content": null,
+    "query": "%23per%C5%9Fembe",
+    "tweet_volume": 17433
+   },
+   {
+    "name": "#\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
+    "url": "http://twitter.com/search?q=%23%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0",
+    "promoted_content": null,
+    "query": "%23%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0",
+    "tweet_volume": null
+   },
+   {
+    "name": "#\u4eba\u306f\u3042\u306a\u305f\u3092\u3053\u3046\u898b\u3066\u3044\u308b",
+    "url": "http://twitter.com/search?q=%23%E4%BA%BA%E3%81%AF%E3%81%82%E3%81%AA%E3%81%9F%E3%82%92%E3%81%93%E3%81%86%E8%A6%8B%E3%81%A6%E3%81%84%E3%82%8B",
+    "promoted_content": null,
+    "query": "%23%E4%BA%BA%E3%81%AF%E3%81%82%E3%81%AA%E3%81%9F%E3%82%92%E3%81%93%E3%81%86%E8%A6%8B%E3%81%A6%E3%81%84%E3%82%8B",
+    "tweet_volume": null
+   },
+   {
+    "name": "#MauJanjiApalagi",
+    "url": "http://twitter.com/search?q=%23MauJanjiApalagi",
+    "promoted_content": null,
+    "query": "%23MauJanjiApalagi",
+    "tweet_volume": 15603
+   },
+   {
+    "name": "#\u0627\u0644\u063a\u0628\u0627\u0631",
+    "url": "http://twitter.com/search?q=%23%D8%A7%D9%84%D8%BA%D8%A8%D8%A7%D8%B1",
+    "promoted_content": null,
+    "query": "%23%D8%A7%D9%84%D8%BA%D8%A8%D8%A7%D8%B1",
+    "tweet_volume": null
+   },
+   {
+    "name": "#\u65e5\u672c\u4eba\u306e\u304a\u306a\u307e\u3048\u3063",
+    "url": "http://twitter.com/search?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AE%E3%81%8A%E3%81%AA%E3%81%BE%E3%81%88%E3%81%A3",
+    "promoted_content": null,
+    "query": "%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AE%E3%81%8A%E3%81%AA%E3%81%BE%E3%81%88%E3%81%A3",
+    "tweet_volume": null
+   },
+   {
+    "name": "#\u0627\u0644\u062e\u0645\u064a\u0633_\u0627\u0644\u0648\u0646\u064a\u0633",
+    "url": "http://twitter.com/search?q=%23%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3_%D8%A7%D9%84%D9%88%D9%86%D9%8A%D8%B3",
+    "promoted_content": null,
+    "query": "%23%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3_%D8%A7%D9%84%D9%88%D9%86%D9%8A%D8%B3",
+    "tweet_volume": 14905
+   },
+   {
+    "name": "#askricky",
+    "url": "http://twitter.com/search?q=%23askricky",
+    "promoted_content": null,
+    "query": "%23askricky",
+    "tweet_volume": null
+   },
+   {
+    "name": "#\uc751\uc751_2ndwin",
+    "url": "http://twitter.com/search?q=%23%EC%9D%91%EC%9D%91_2ndwin",
+    "promoted_content": null,
+    "query": "%23%EC%9D%91%EC%9D%91_2ndwin",
+    "tweet_volume": null
+   },
+   {
+    "name": "#KonjeWhatHappenedTo",
+    "url": "http://twitter.com/search?q=%23KonjeWhatHappenedTo",
+    "promoted_content": null,
+    "query": "%23KonjeWhatHappenedTo",
+    "tweet_volume": null
+   },
+   {
+    "name": "#SanAnt\u00f3n",
+    "url": "http://twitter.com/search?q=%23SanAnt%C3%B3n",
+    "promoted_content": null,
+    "query": "%23SanAnt%C3%B3n",
+    "tweet_volume": null
+   },
+   {
+    "name": "#Bosasa",
+    "url": "http://twitter.com/search?q=%23Bosasa",
+    "promoted_content": null,
+    "query": "%23Bosasa",
+    "tweet_volume": null
+   },
+   {
+    "name": "#Buyapaper",
+    "url": "http://twitter.com/search?q=%23Buyapaper",
+    "promoted_content": null,
+    "query": "%23Buyapaper",
+    "tweet_volume": null
+   },
+   {
+    "name": "#BettyWhite",
+    "url": "http://twitter.com/search?q=%23BettyWhite",
+    "promoted_content": null,
+    "query": "%23BettyWhite",
+    "tweet_volume": null
+   }
+  ],
+  "as_of": "2019-01-17T11:18:29Z",
+  "created_at": "2019-01-17T11:12:19Z",
+  "locations": [
+   {
+    "name": "Worldwide",
+    "woeid": 1
+   }
+  ]
+ }
+]
